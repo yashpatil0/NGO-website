@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+
+
+#header .navbar-brand{
+    width: 180px;
+   
+}
+
+
+#header{
+    border-bottom: 3px solid #C2463D;
+
+
+
+}
+
+#header .nav-link{
+    font-size: 24px;
+    font-family: 'Righteous', cursive;
+
+    
+   
+}
+
+.bg{
+    background: linear-gradient(to bottom, #ccffff 0%, #ffcc99 100%);
+    background-attachment: fixed;
+}
+
+
+
+
+#slider{
+    box-shadow: 0px 10px 5px grey;
+
+}
+
+#about{
+     margin-top: 30px;
+     box-shadow: 0px 10px 5px grey ;
+    
+    
+}
+
+#services{
+    margin-top: 30px;
+    box-shadow: 0px 5px 5px grey ;
+    padding-bottom: 30px;
+}
+
+#gallery{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 5px grey ;
+   
+}
+
+#ourteam{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0px 5pxpx 5px grey ;
+
+}
+
+#contact{
+    margin-top: 30px;
+    box-shadow: 0px 10px 5px grey ;
+   
+}
+
+#form{
+    margin-top: 35px;
+    padding-top: 30px;
+    box-shadow: 3px 3px 5px 6px grey ;
+    margin-bottom: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:white;
+}
+
+.card-image-top{
+    font-size: 100px;
+}
+
+/* .carousel-item>img{
+    width: 100%;
+    height: 650px;
+
+} */
+
+
+
+#slider p{
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+
+}
+
+#about p{
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+}
+
+#services p{
+    font-family: 'Questrial', sans-serif;
+    font-size: 16px;
+} 
+
+
+#gallery p{
+    font-family: 'Questrial', sans-serif;
+}
+
+#ourteam p{
+    font-family: 'Questrial', sans-serif;
+}
+
+#contact p{
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+}
+
+
+#about h1{
+    font-family: 'Righteous', cursive;
+}
+
+#services h1{
+    font-family: 'Righteous', cursive;
+}
+
+#gallery h1{
+    font-family: 'Righteous', cursive;
+}
+
+#ourteam h1{
+    font-family: 'Righteous', cursive;
+
+}
+
+#contact h1{
+    font-family: 'Righteous', cursive;
+}
+
+#contact h2{
+    font-family: 'Righteous', cursive;
+}
+
+#form h2{
+    font-family: 'Righteous', cursive;
+}
+
+
+#services .card-image-top{
+    color:#C2463D;  
+}
+
+
+
+
+    
+
+.btn{
+    background-color:#C2463D;
+    color:white;
+}
+
+.card{
+    box-shadow: 10px 10px 5px grey ;
+}
+
+
+
+
+
+
+
+#footer .iconsize{
+    font-size: 20px;
+  
+    
+    
+}
+
+
+
+
+
+footer{
+    font-size: 15px;
+    background-color:black;
+    color:white;
+    border-top: 3px solid #1E7DD7;
+
+}
+
+
+.zoom:hover {
+    transform: scale(1.1);
+  }
+ 
+ 
+
+
+
+
+
